@@ -12,7 +12,7 @@ const addressData = [
   {
     icon: faLocationDot,
     title: "Address",
-    description: "Cairo, Beni-suef",
+    description: "Egypt, Beni-suef",
   },
   {
     icon: faEnvelope,
