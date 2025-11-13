@@ -1,47 +1,21 @@
-# Picto - Personal Portfolio Free Template
+# 🌐 Fahd El Sherif — Portfolio
 
-#### Preview
+A professional portfolio website showcasing the work, experience, and digital transformation initiatives of *Fahd El Sherif*, Senior System Integration & Project Delivery Manager.  
+Deployed and hosted at **[portfolio-fahd-el-sherif.vercel.app](https://portfolio-fahd-el-sherif.vercel.app/)**.
 
-- [Demo](https://themewagon.github.io/picto/)
+---
 
-#### Download
+## 🚀 Overview
 
-- [Download from ThemeWagon](https://themewagon.com/themes/picto)
+This portfolio highlights professional expertise in:
+- System Integration & Enterprise Application Delivery  
+- SAP ERP, Data Management, and BI Solutions  
+- Digital Transformation & Automation Strategy  
+- ITSM, Healthcare, Government, and Telecommunications Projects  
 
-## Getting Started
+The site provides:
+- A concise professional summary  
+- Case studies and project showcases  
+- Contact and networking links  
 
-1. Clone Repository
-
-```
-git clone https://github.com/themewagon/picto.git
-```
-
-2. Install Dependencies
-
-```
-npm i
-```
-
-3. Run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-## Author
-
-```
-Developed by ThemeWagon and development team.
-```
-
-## License
-
-- Design and Code is Copyright &copy; <a href="http://themewagon.com/" target="_blank">ThemeWagon</a>
-- Licensed cover under [MIT]
-- Developed by <a href="http://themewagon.com/" target="_blank">ThemeWagon</a>
+---
