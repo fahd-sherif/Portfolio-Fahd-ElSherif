@@ -27,7 +27,7 @@ const menu = navItems.map((item) => (
       spy={true}
       offset={-140}
       activeStyle={{
-        backgroundColor: "#2b4e31",
+        backgroundColor: "#49724b",
         color: "white",
       }}
       className={`hover:text-picto-primary px-5 py-3 mx-1`}
